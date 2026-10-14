@@ -33,7 +33,16 @@ This beginner-level project documents basic Linux commands and network connectiv
 - Practiced basic Linux terminal commands.
 - Inspected network interface and routing information.
 - Received ping replies from `google.com`, confirming successful connectivity during the test.
+ ## Practical Screenshots
 
+### 1. IP Address and Network Interfaces
+![Kali Linux IP Address](ip-address.png)
+
+### 2. Network Routing Information
+![Kali Linux Network Route](network-route.png)
+
+### 3. Network Connectivity Test
+![Kali Linux Ping Test](ping-test.png)
 ## Learning Outcome
 Gained beginner-level hands-on experience with Linux commands, IP addressing, routing, and basic network connectivity testing.
 
